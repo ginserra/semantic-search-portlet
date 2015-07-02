@@ -42,7 +42,7 @@ before_install:
 
 # Building the semantic-search-portlet
 install:
- - cd liferay-plugins-sdk-6.1.1/portlets/semantic-search-portlet
+ - cd liferay-plugins-sdk-6.1.1/portlets/test_semantic
  #- sudo ant all
 
 notifications:
